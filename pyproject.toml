@@ -13,6 +13,8 @@ dependencies = [
     "numpy>=2.1.2",
     "duckdb>=1.1.2",
     "faker>=30.8.1",
+    "pycountry>=24.6.1",
+    "pyarrow>=17.0.0",
 ]
 readme = "README.md"
 requires-python = ">= 3.8"
